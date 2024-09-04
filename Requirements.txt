@@ -1,0 +1,29 @@
+InstaClone Requirements:
+
+FrontEnd: React
+
+BackEnd: .Net, EntityFramework, MSSQL
+
+
+-Simple login with token
+
+-Google login
+
+-User account page
+
+-email confirmations
+
+-friendships between users
+
+-chat between users
+
+-group chat between users
+
+-image posts
+
+-video posts
+
+-comments on posts
+
+-stories
+
